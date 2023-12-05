@@ -1,5 +1,5 @@
 # Generative-AI
-##Use Watsonx to respond to natural language questions using RAG approach
+## Use Watsonx to respond to natural language questions using RAG approach
 
 This notebook contains the steps and code to demonstrate support of Retrieval Augumented Generation in watsonx.ai. It introduces commands for data retrieval, knowledge base building & querying, and model testing.
 
